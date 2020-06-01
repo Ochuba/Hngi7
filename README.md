@@ -1,2 +1,2 @@
 # Hngi7
- A reppository for all Hng related tasks
+ A repository for all Hng related tasks
